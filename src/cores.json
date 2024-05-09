@@ -1,0 +1,201 @@
+{
+  "bootcamp": [
+    "introduction-html",
+    "introduction-css",
+    "html-forms",
+    "embeds-github-pages",
+    "calculator-html-css",
+    "introduction-javascript",
+    "calculator-javascript",
+    "javascript-in-websites",
+    "web-game-project"
+  ],
+
+  "beginner": [
+    "web-development-v3",
+    "getting-started-css",
+    "getting-started-javascript-v2",
+    "css-foundations",
+    "javascript-first-steps",
+    "accessibility-v2"
+  ],
+
+  "professional": [
+    "javascript-hard-parts-v2",
+    "deep-javascript-v3",
+    "complete-react-v8",
+    "vanilla-js-apps",
+    "web-perf",
+    "css-grid-flexbox-v2",
+    "fullstack-v3",
+    "typescript-v4",
+    "functional-first-steps"
+  ],
+
+  "advanced": [
+    "web-dev-quiz",
+    "javascript-new-hard-parts",
+    "enterprise-ui-dev",
+    "web-performance",
+    "hard-parts-ui-dev",
+    "functional-javascript-v3",
+    "xstate-v2",
+    "git-in-depth",
+    "web-assembly",
+    "developer-productivity"
+  ],
+
+  "computer-science": ["computer-science-v2", "algorithms", "algorithms-practice"],
+
+  "fullstack": [
+    "fullstack-v3",
+    "databases",
+    "linux-command-line",
+    "vim-fundamentals",
+    "node-js-v3",
+    "api-design-nodejs-v4",
+    "aws-v2",
+    "complete-intro-containers",
+    "sql",
+    "devops"
+  ],
+
+  "designers-code": [
+    "ux-design-principles",
+    "design-for-developers",
+    "getting-started-css",
+    "css-foundations",
+    "css-grid-flexbox-v2",
+    "svg-essentials-animation",
+    "css-layouts"
+  ],
+
+  "javascript": [
+    "javascript-first-steps",
+    "javascript-hard-parts-v2",
+    "vanilla-js-apps",
+    "deep-javascript-v3",
+    "js-recent-parts",
+    "javascript-new-hard-parts",
+    "functional-javascript-v3",
+    "hard-parts-ui-dev"
+  ],
+
+  "css": [
+    "getting-started-css",
+    "css-foundations",
+    "css-grid-flexbox-v2",
+    "css-layouts",
+    "css-animations",
+    "intermediate-html-css",
+    "css-projects"
+  ],
+
+  "node-js": ["node-js-v3", "servers-node-js", "digging-into-node", "api-design-nodejs-v4", "fullstack-v3"],
+
+  "react": [
+    "complete-react-v8",
+    "intermediate-react-v5",
+    "react-performance",
+    "react-typescript-v2",
+    "next-js-v3",
+    "enterprise-ui-dev"
+  ],
+
+  "vue": ["vue-fundamentals", "production-vue", "vue-typescript"],
+
+  "angular": ["angular-fundamentals", "typescript-v4", "production-angular"],
+
+  "typescript": ["typescript-v4", "intermediate-typescript-v2", "typescript-practice", "enterprise-typescript"],
+
+  "functional-javascript": [
+    "functional-first-steps",
+    "functional-js-fundamentals",
+    "functional-javascript-v3",
+    "hardcore-js-v2"
+  ],
+
+  "python": ["practical-python", "intermediate-python"],
+
+  "build-tools": ["vite", "testing-practices-principles", "enterprise-ui-dev", "cypress"],
+
+  "browser-apis": [
+    "device-web-apis",
+    "web-components",
+    "web-auth-apis",
+    "web-storage-apis",
+    "pwas",
+    "service-workers",
+    "javascript-projects"
+  ],
+
+  "d3-js": ["data-visualization", "d3", "d3-js-custom-charts"],
+
+  "frontend": [
+    "web-development-v3",
+    "getting-started-css",
+    "getting-started-javascript-v2",
+    "javascript-first-steps",
+    "accessibility-v2",
+    "deep-javascript-v3",
+    "css-grid-flexbox-v2",
+    "functional-first-steps",
+    "web-performance",
+    "functional-javascript-v3",
+    "developer-productivity",
+    "javascript-new-hard-parts",
+    "servers-node-js",
+    "web-storage-apis",
+    "web-auth-apis",
+    "tour-js-patterns",
+    "pwas",
+    "figma",
+    "testing-practices-principles"
+  ],
+
+  "full_stack": [
+    "fullstack-v3",
+    "databases",
+    "linux-command-line",
+    "node-js-v3",
+    "api-design-nodejs-v4",
+    "devops",
+    "servers-node-js",
+    "complete-intro-containers",
+    "sql",
+    "typescript-go-rust",
+    "mongodb",
+    "remix"
+  ],
+
+  "tools-framworks": [
+    "complete-react-v8",
+    "intermediate-react-v5",
+    "typescript-v4",
+    "git-in-depth",
+    "algorithms",
+    "next-js-v3",
+    "react-performance",
+    "fullstack-app-next-v3",
+    "react-typescript-v2",
+    "vue-fundamentals"
+  ],
+
+  "foundamental": [
+    "javascript-first-steps",
+    "javascript-hard-parts-v2",
+    "deep-javascript-v3",
+    "complete-react-v8",
+    "intermediate-react-v5",
+    "linux-command-line",
+    "web-perf",
+    "functional-javascript-v3",
+    "developer-productivity",
+    "computer-science-v2",
+    "algorithms",
+    "algorithms-practice",
+    "vim-fundamentals",
+    "react-performance",
+    "web-auth-apis"
+  ]
+}

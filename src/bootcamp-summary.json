@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "introduction-html",
+    "dateIndex": 200,
+    "lessonsTotal": 20,
+    "courseDuration": 107,
+    "closedCaption": true,
+    "title": "Introduction to HTML",
+    "published": 1567279800000,
+    "assetsPath": "2019-09-01-introduction-html",
+    "teacher": {
+      "name": "Jen Kramer",
+      "organization": "Freelance Instructor",
+      "slug": "jen-kramer"
+    }
+  },
+  {
+    "slug": "introduction-css",
+    "dateIndex": 200,
+    "lessonsTotal": 49,
+    "courseDuration": 250,
+    "closedCaption": true,
+    "title": "Introduction to CSS",
+    "published": 1567366200000,
+    "assetsPath": "2019-09-02-introduction-css",
+    "teacher": {
+      "name": "Jen Kramer",
+      "organization": "Freelance Instructor",
+      "slug": "jen-kramer"
+    }
+  },
+  {
+    "slug": "html-forms",
+    "dateIndex": 200,
+    "lessonsTotal": 30,
+    "courseDuration": 123,
+    "closedCaption": true,
+    "title": "HTML Forms",
+    "published": 1567452600000,
+    "assetsPath": "2019-09-03-html-forms",
+    "teacher": {
+      "name": "Jen Kramer",
+      "organization": "Freelance Instructor",
+      "slug": "jen-kramer"
+    }
+  },
+  {
+    "slug": "embeds-github-pages",
+    "dateIndex": 200,
+    "lessonsTotal": 11,
+    "courseDuration": 54,
+    "closedCaption": true,
+    "title": "Website Embeds & GitHub Pages",
+    "published": 1567539000000,
+    "assetsPath": "2019-09-04-embeds-github-pages",
+    "teacher": {
+      "name": "Jen Kramer",
+      "organization": "Freelance Instructor",
+      "slug": "jen-kramer"
+    }
+  },
+  {
+    "slug": "calculator-html-css",
+    "dateIndex": 200,
+    "lessonsTotal": 12,
+    "courseDuration": 48,
+    "closedCaption": true,
+    "title": "Calculator Project: HTML & CSS",
+    "published": 1567625400000,
+    "assetsPath": "2019-09-05-calculator-html-css",
+    "teacher": {
+      "name": "Jen Kramer",
+      "organization": "Freelance Instructor",
+      "slug": "jen-kramer"
+    }
+  },
+  {
+    "slug": "introduction-javascript",
+    "dateIndex": 200,
+    "lessonsTotal": 55,
+    "courseDuration": 323,
+    "closedCaption": true,
+    "title": "Introduction to JavaScript",
+    "published": 1567711800000,
+    "assetsPath": "2019-09-06-introduction-javascript",
+    "teacher": {
+      "name": "Brian Holt",
+      "organization": "Snowflake",
+      "slug": "brian-holt"
+    }
+  },
+  {
+    "slug": "calculator-javascript",
+    "dateIndex": 200,
+    "lessonsTotal": 14,
+    "courseDuration": 73,
+    "closedCaption": true,
+    "title": "Calculator Project: JavaScript",
+    "published": 1567798200000,
+    "assetsPath": "2019-09-07-calculator-javascript",
+    "teacher": {
+      "name": "Brian Holt",
+      "organization": "Snowflake",
+      "slug": "brian-holt"
+    }
+  },
+  {
+    "slug": "javascript-in-websites",
+    "dateIndex": 200,
+    "lessonsTotal": 37,
+    "courseDuration": 182,
+    "closedCaption": true,
+    "title": "Using JavaScript in Websites",
+    "published": 1567884600000,
+    "assetsPath": "2019-09-08-javascript-in-websites",
+    "teacher": {
+      "name": "Brian Holt",
+      "organization": "Snowflake",
+      "slug": "brian-holt"
+    }
+  },
+  {
+    "slug": "web-game-project",
+    "dateIndex": 200,
+    "lessonsTotal": 32,
+    "courseDuration": 133,
+    "closedCaption": true,
+    "title": "Build a Game Project: Feed-A-Star-Mole",
+    "published": 1567971000000,
+    "assetsPath": "2019-09-09-web-game-project",
+    "teacher": {
+      "name": "Brian Holt",
+      "organization": "Snowflake",
+      "slug": "brian-holt"
+    }
+  },
+  {
+    "slug": "career-guidance",
+    "dateIndex": 200,
+    "lessonsTotal": 27,
+    "courseDuration": 91,
+    "closedCaption": true,
+    "title": "Career Guidance",
+    "published": 1568057400000,
+    "assetsPath": "2019-09-10-career-guidance",
+    "teacher": {
+      "name": "Paul DeBettignies",
+      "organization": "MNHeadhunter",
+      "slug": "paul-debettignies"
+    }
+  },
+  {
+    "slug": "css3-in-depth",
+    "lessonsTotal": 43,
+    "courseDuration": 369,
+    "downloaded": true,
+    "title": "CSS3 In-Depth",
+    "published": 1377372600000,
+    "assetsPath": "2013-08-25-css3-in-depth",
+    "topics": ["CSS"],
+    "teacher": {
+      "name": "Estelle Weyl",
+      "organization": "Mozilla Developer Network",
+      "slug": "estelle-weyl"
+    }
+  }
+]

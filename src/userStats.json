@@ -1,0 +1,44 @@
+{
+  "bootcamp": 100,
+  "beginner": 100,
+  "professional": 100,
+  "advanced": 24,
+  "computer-science": 66,
+  "fullstack": 50,
+  "designers-code": 96,
+  "javascript": 62,
+  "css": 100,
+  "node-js": 40,
+  "react": 40,
+  "vue": 0,
+  "angular": 33,
+  "typescript": 75,
+  "functional-javascript": 25,
+  "python": 0,
+  "build-tools": 10,
+  "browser-apis": 4,
+  "d3-js": 0,
+  "frontend": 47,
+  "full_stack": 33,
+  "tools-framworks": 40,
+  "foundamental": 66,
+  "instructor1": {
+    "teacherSlug": "Brian Holt",
+    "watched": 23
+  },
+  "instructor2": {
+    "teacherSlug": "Jen Kramer",
+    "watched": 15
+  },
+  "instructor3": {
+    "teacherSlug": "Mike North",
+    "watched": 8
+  },
+  "instructor4": {
+    "teacherSlug": "others",
+    "watched": 54
+  },
+  "lessonsCompleted": 2003,
+  "hoursWatched": 252,
+  "lastUpdated": 1713689921301
+}

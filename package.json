@@ -1,0 +1,27 @@
+{
+  "name": "newapp",
+  "version": "1.0.0",
+  "description": "new test application",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samadariyan/newApp.git"
+  },
+  "keywords": [
+    "new",
+    "app",
+    "application"
+  ],
+  "author": "Samad Ariyan <samadariyan@yahoo.com> (https://samadariyan.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samadariyan/newApp/issues"
+  },
+  "homepage": "https://github.com/samadariyan/newApp#readme",
+  "dependencies": {
+    "unique-random-array": "3.0.0"
+  }
+}
