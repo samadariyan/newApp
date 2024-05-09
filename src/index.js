@@ -1,7 +1,7 @@
 var uniqueRandomArray = requires("unique-random-array");
-var coreCourses = requires("./cores");
+var courses = requires("./courses.json");
 
 module.exports = {
-  all: coreCourses,
-  random: uniqueRandomArray(coreCourses),
+  all: courses,
+  random: uniqueRandomArray(courses),
 };
