@@ -1,7 +1,5 @@
-var uniqueRandomArray = require("unique-random-array");
-var courses = require("./courses.json");
+import uniqueRandomCourse from "unique-random-array";
+import courses from "./courses.json";
 
-module.exports = {
-  all: courses,
-  random: uniqueRandomArray(courses),
-};
+export const all = courses;
+export const random = uniqueRandomCourse(courses);
