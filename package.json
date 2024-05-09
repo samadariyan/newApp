@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/samadariyan/newApp.git"
+    "url": "git+https://github.com/samadariyan/samadapp.git"
   },
   "keywords": [
     "new",
@@ -18,9 +18,9 @@
   "author": "Samad Ariyan <samadariyan@yahoo.com> (https://samadariyan.github.io/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/samadariyan/newApp/issues"
+    "url": "https://github.com/samadariyan/samadapp/issues"
   },
-  "homepage": "https://github.com/samadariyan/newApp#readme",
+  "homepage": "https://github.com/samadariyan/samadapp#readme",
   "dependencies": {
     "unique-random-array": "3.0.0"
   }
