@@ -1,5 +1,5 @@
-var uniqueRandomArray = requires("unique-random-array");
-var courses = requires("./courses.json");
+var uniqueRandomArray = require("unique-random-array");
+var courses = require("./courses.json");
 
 module.exports = {
   all: courses,
