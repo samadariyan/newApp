@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/samadariyan/samadapp.git"
+    "url": "https://github.com/samadariyan/samadapp.git"
   },
   "keywords": [
     "new",
@@ -26,6 +26,7 @@
   },
   "devDependencies": {
     "chai": "5.1.1",
-    "mocha": "10.4.0"
+    "mocha": "10.4.0",
+    "semver": "7.6.2"
   }
 }
